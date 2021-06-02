@@ -1,4 +1,4 @@
-# colourgame
+# Colour Up
 
 A new Flutter application.
 
