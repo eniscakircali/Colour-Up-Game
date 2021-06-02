@@ -33,8 +33,9 @@ In the Bomb mode, you have three seconds to click the correct buttons. You have 
 <img src="https://github.com/MortuusestChe/Colour-Up-Game/blob/main/Colour%20Up/assets/screenshots/2.jpg" />
 </div>
 <br />
-![alt text](https://github.com/MortuusestChe/Colour-Up-Game/blob/main/Colour%20Up/assets/screenshots/3.jpg)
-![alt text](https://github.com/MortuusestChe/Colour-Up-Game/blob/main/Colour%20Up/assets/screenshots/4.jpg)
 
+<div style="text-align:center"><img src="https://github.com/MortuusestChe/Colour-Up-Game/blob/main/Colour%20Up/assets/screenshots/3.jpg" />
+<img src="https://github.com/MortuusestChe/Colour-Up-Game/blob/main/Colour%20Up/assets/screenshots/4.jpg" />
+</div>
 
 
