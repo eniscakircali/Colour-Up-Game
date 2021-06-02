@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## About Game
 
-Game has three mods and each mods has the same qualities.
+The game has three modes and each mods has the same qualities.
 
 In the classic mode, you have thirty seconds to click the correct buttons. If you would click on the wrong button there is no need to worry about it, you can keep playing.
 
