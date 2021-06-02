@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## About Game
 
+I used shared preferences for saving high score data and in the frontend design, I used a simple column and row system. 
+
 The game has three modes and each mods has the same qualities.
 
 In the classic mode, you have thirty seconds to click the correct buttons. If you would click on the wrong button there is no need to worry about it, you can keep playing.
@@ -24,3 +26,5 @@ In the classic mode, you have thirty seconds to click the correct buttons. If yo
 In the Decrease - Increase mode, you have five seconds to click the correct buttons. But if you would click on the wrong button you will get punished with minus three seconds. However, for each correct answer, you would get plus a second.
 
 In the Bomb mode, you have three seconds to click the correct buttons. You have no right to click the wrong buttons and for each correct answer, you would get plus a second.
+
+
