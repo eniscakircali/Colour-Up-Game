@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## About Game
+
+Game has three mods and each mods has the same qualities.
+
+In the classic mode, you have thirty seconds to click the correct buttons. If you would click on the wrong button there is no need to worry about it, you can keep playing.
+
+In the Decrease - Increase mode, you have five seconds to click the correct buttons. But if you would click on the wrong button you will get punished with minus three seconds. However, for each correct answer, you would get plus a second.
+
+In the Bomb mode, you have three seconds to click the correct buttons. You have no right to click the wrong buttons and for each correct answer, you would get plus a second.
