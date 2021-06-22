@@ -1,5 +1,6 @@
 # Colour-Up
 Simple game for Android and IOS. Built with dart language and Flutter.
+<br/>
 https://play.google.com/store/apps/details?id=enis.app.colourgame
 
 <br/>
